@@ -1,4 +1,4 @@
-# Python-Data-Analysis-
+# Python-Data-Analysis
 # 🌍 Global Terrorism Data Analysis 
 
 Hi! I'm **Sharika Rajan**, and this is my data analysis project based on the Global Terrorism Dataset from Kaggle. I explored trends in global terrorist activities using Python, focusing on visual insights and basic modeling.
